@@ -43,6 +43,12 @@ python main.py
 | 大小     | `geometry`      |
 
 更多语法添加中，欢迎PR.
+## 代码示例
+```
+函数 输出:
+  输出("你好世界")
+输出()
+```
 ## 联系我们
 邮箱：admin@haloged.top
 
