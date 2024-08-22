@@ -45,5 +45,7 @@ python main.py
 更多语法添加中，欢迎PR.
 ## 联系我们
 邮箱：admin@haloged.top
+
 本仓库使用使用 GPL v3 许可证.
+
 灵感来源：https://www.bilibili.com/video/BV1QWpResE16
